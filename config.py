@@ -1,0 +1,2 @@
+q_api_key = '51Yzr5dKF_s_KT8Kv1oP'
+y_api_key = 'I3CrsWJHjO43EqdpL3IXJ4e1zAfKOLIWcmGnas7zrjEalEWxH7aGY2v0NipX0tYnocuWITIaBZz0yVYVJ4rhn6fgKqj3rFJtMRAXgwf7j7_HB-sOzEBAxezCVKMSXXYx'
