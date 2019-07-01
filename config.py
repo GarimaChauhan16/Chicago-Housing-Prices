@@ -1,1 +1,4 @@
 q_api_key= "LCN5AkfDv6jDra8NRzs5"
+y_api_key = "kK9DebU0ZmBPFEon-SMudXqbKOzcZ5jVfhAagTB-V0d79pSaKnMFgpbQD13y8tqoawLbX5p1FPOpsuMJr_kcXCzyeMSRsfUanM2vEPPfRJwRmHDQICblr8iK02IaXXYx"
+c_api_key = "85ac64b6b5a9c0901b00329d1ef41f0c53ccfc98"
+gkey = "AIzaSyBup3j08nU2jSU_sT8ga2q4aqaIsLEGwss"
