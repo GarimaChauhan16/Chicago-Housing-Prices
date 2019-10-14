@@ -21,14 +21,14 @@ We discovered that none of the three business types had a strong relationship wi
 
 ## Do Higher Crime Rates and Higher Poverty Rates Correlate to Lower Rent Prices?
 
-Crime Rate
+### Crime Rate
 
 The crime data was collected from the city of Chicago data portal for all reported incidents of crime in 2018.
 There was not a strong correlation between crime per 1,000 people in each zip code and the median rent in each zip code. The correlation coefficient is -0.04.
 
 ![crime](Images/Rent_Vs_Crime.png)
 
-Poverty
+### Poverty
 
 The poverty rate data was collected from the US census API.
 Poverty rate per zip code is inversely related to median rent. The correlation coefficient is -0.56.
