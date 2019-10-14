@@ -15,9 +15,11 @@ The Yelp API was used to locate the number of business in certain categories. An
 
 We discovered that none of the three business types had a strong relationship with median rental price. Nightlife, Restaurants, and Grocery stores had a correlation coefficient of 0.20, 0.11, and 0.26 respectively.
 
-![restaurants](Images/Rent_Vs_Restaurants.png 
+
 ![grocery](Images/Rent_Vs_Grocery.png)
+![restaurants](Images/Rent_Vs_Restaurants.png 
 ![nightlife](Images/Rent_Vs_NightLife.png)
+
 
 
 ## Do Higher Crime Rates and Higher Poverty Rates Correlate to Lower Rent Prices?
