@@ -44,8 +44,11 @@ The Airbnb data was pulled from the Inside Airbnb website, and plotted the rent 
 ## Regression Model
 In order to verify how well the above variables predicted the rent prices in Chicago, we ran multi-linear regression.  
 We ran multiple iterations of the regression model. The final model included the following variables: median household income, poverty rate, total crime count, average Airbnb reviews, total amenities (grocery, nightlife, restaurants). 
+
 ![regression](Images/Actual_vs_Predicted_Median_Rent.png)
+
 The factors when combined together gave a rather good regression model with the R-square value of 0.66 and a p-value of less than 5% for each variable.
+
 ![regression](Images/Regression_Summary.png)
 
 
