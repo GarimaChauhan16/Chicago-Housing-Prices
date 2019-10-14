@@ -49,7 +49,11 @@ We ran multiple iterations of the regression model. The final model included the
 
 The factors when combined together gave a rather good regression model with the R-square value of 0.66 and a p-value of less than 5% for each variable.
 
+<<<<<<< HEAD
 ![regression](Images/Regression_Summary.png)
+=======
+![regression](Images/Actual_vs_Predicted_Median_Rent.png)
+>>>>>>> cef9e0de561a3c815788c67cb59f4898a1811239
 
 
 
