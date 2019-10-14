@@ -5,17 +5,18 @@ For this project we explored what factors may influence the value of housing in 
 ![chicago](Images/chicago.png)
 
 ## Do Median Rent and Median Home Value by Zip Code Follow the Same Trend?
+
 Zillow data from the Quandl API was used to review 2018 median home values and median rental prices in Chicago. Median home values and median rental prices seem to have a correlation coefficient of  0.95.
-![chicago](Images/Rent_Vs_House_Value.png)
+
+		![chicago](Images/Rent_Vs_House_Value.png)
 
 ## Does Having More Amenities Increase the Rental Price in the Area?
 The Yelp API was used to locate the number of business in certain categories. And the categories that we felt would be most likely to affect rent prices are: nightlife, restaurants, and grocery stores. 
 
 We discovered that none of the three business types had a strong relationship with median rental price. Nightlife, Restaurants, and Grocery stores had a correlation coefficient of 0.20, 0.11, and 0.26 respectively.
 
-![restaurants](Images/Rent_Vs_Restaurants.png)
-![nightlife](Images/Rent_Vs_NightLife.png)
-![grocery](Images/Rent_Vs_Grocery.png)
+![restaurants](Images/Rent_Vs_Restaurants.png)![nightlife](Images/Rent_Vs_NightLife.png)
+		![grocery](Images/Rent_Vs_Grocery.png)
 
 ## Do Higher Crime Rates and Higher Poverty Rates Correlate to Lower Rent Prices?
 
