@@ -17,7 +17,7 @@ We discovered that none of the three business types had a strong relationship wi
 
 
 ![grocery](Images/Rent_Vs_Grocery.png)
-![restaurants](Images/Rent_Vs_Restaurants.png 
+![restaurants](Images/Rent_Vs_Restaurants.png) 
 ![nightlife](Images/Rent_Vs_NightLife.png)
 
 
