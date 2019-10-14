@@ -49,7 +49,7 @@ We ran multiple iterations of the regression model. The final model included the
 
 The factors when combined together gave a rather good regression model with the R-square value of 0.66 and a p-value of less than 5% for each variable.
 
-![regression](Images/Regression_Summary.png)
+![regression](Images/Regression_Summary.jpg)
 
 
 
